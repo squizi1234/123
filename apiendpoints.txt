@@ -1,2 +1,1 @@
-http://localhost:3000/v1
-https://citizens-mix-hansen-protein.trycloudflare.com/
+https://nat-home-selected-viewed.trycloudflare.com/
