@@ -1,2 +1,1 @@
-http://127.0.0.1:3000/v1
 https://technical-method-communications-plugin.trycloudflare.com/
